@@ -1,1 +1,1 @@
-TERM=xterm lxterminal
+startxfce4

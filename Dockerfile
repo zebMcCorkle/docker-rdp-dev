@@ -42,6 +42,7 @@ lxterminal
 
 # Install steps for X app
 
+RUN apt-get install -y xfce4 xfdesktop4
 
 # Copy X app start script to right location
 COPY startapp.sh /startapp.sh
